@@ -10,3 +10,7 @@ cloud
 google cloud
 not really as beautiful as my colourful cloud
 but they say it's useful
+yellow 
+green 
+purple
+trees and netflix
